@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51" height="28" viewBox="0 0 51 28">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-498.000000, -126.000000) translate(498.000000, 126.000000)">
+                <rect width="50" height="27" x=".5" y=".5" fill="#FF5859" stroke="#FF5859" rx="5"/>
+                <text fill="#FEFEFE" font-size="16" font-weight="500" letter-spacing=".5">
+                    <tspan x="8.033" y="20">LIVE</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

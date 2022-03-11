@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="56" viewBox="0 0 56 56">
+    <defs>
+        <rect id="vc3njn08sa" width="56" height="56" x="0" y="0" rx="5"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-8 -764) translate(8 764)">
+                <mask id="ubn6omc1rb" fill="#fff">
+                    <use xlink:href="#vc3njn08sa"/>
+                </mask>
+                <use fill="#2A375D" xlink:href="#vc3njn08sa"/>
+                <g mask="url(#ubn6omc1rb)" opacity=".5">
+                    <g transform="translate(12 26)">
+                        <path fill="#FEFEFE" d="M16.5 0C25.613 0 33 5.515 33 12.318s-7.387 12.318-16.5 12.318c-2.661 0-5.175-.47-7.4-1.305l-5.017 1.618c-.229.074-.476.063-.698-.03-.508-.217-.745-.804-.53-1.312l1.317-3.101C1.577 18.329 0 15.46 0 12.318 0 5.515 7.387 0 16.5 0z"/>
+                        <circle cx="16.5" cy="12.5" r="1.5" fill="#7CB3FF"/>
+                        <circle cx="9.5" cy="12.5" r="1.5" fill="#7CB3FF"/>
+                        <circle cx="23.5" cy="12.5" r="1.5" fill="#7CB3FF"/>
+                    </g>
+                </g>
+                <text fill="#FEFEFE" font-weight="700" font-size="10" font-weight="bold" mask="url(#ubn6omc1rb)">
+                    <tspan x="9.1" y="18">무엇이든</tspan> <tspan x="4.5" y="31">말해주세요</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

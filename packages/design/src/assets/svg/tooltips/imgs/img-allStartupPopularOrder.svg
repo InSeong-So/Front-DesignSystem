@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="304" height="118" viewBox="0 0 304 118">
+    <defs>
+        <filter id="prefix__a" width="119%" height="155.1%" x="-9.5%" y="-27.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0.2 0 0 0 0 0.2 0 0 0 0 0.2 0 0 0 0.3 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd" filter="url(#prefix__a)" transform="translate(10 6)">
+        <path fill="#FEFEFE" stroke="#2581FF" d="M281 97.5c1.38 0 2.5-1.12 2.5-2.5V3c0-1.38-1.12-2.5-2.5-2.5H3C1.62.5.5 1.62.5 3v92c0 1.38 1.12 2.5 2.5 2.5h278z"/>
+        <text fill="#333" font-weight="400" font-size="14">
+            <tspan x="16" y="32">인기 지수를 점수화하여 정렬한 순서입니다.</tspan>
+        </text>
+        <text fill="#333" font-weight="400" font-size="14">
+            <tspan x="16" y="58">인기 지수 : 투자자가 먼저 보낸 IR 요청 수, </tspan> <tspan x="16" y="78"> 북마크 수, 프로필 완성도, 조회수</tspan>
+        </text>
+    </g>
+</svg>

@@ -1,0 +1,8 @@
+<svg width="44" height="21" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd">
+        <rect fill="#F89416" width="44" height="21" rx="5"/>
+        <text font-family="SpoqaHanSansNeo-Medium, Spoqa Han Sans Neo" font-size="12" font-weight="400" fill="#FEFEFE">
+                    <tspan x="4.096" y="14">채용 중</tspan>
+                </text>
+    </g>
+</svg>

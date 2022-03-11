@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="192" height="56" viewBox="0 0 192 56">
+    <defs>
+        <rect id="1nqsgvj08a" width="192" height="56" x="0" y="0" rx="5"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-12 -764) translate(12 764)">
+                <mask id="jdmowh85ob" fill="#fff">
+                    <use xlink:href="#1nqsgvj08a"/>
+                </mask>
+                <use fill="#2A375D" xlink:href="#1nqsgvj08a"/>
+                <path fill="#D3E6FF" d="M163.5 19c9.113 0 16.5 5.515 16.5 12.318s-7.387 12.318-16.5 12.318c-2.661 0-5.175-.47-7.4-1.305l-5.017 1.618c-.229.074-.476.063-.698-.03-.508-.217-.745-.804-.53-1.312l1.317-3.101C148.577 37.329 147 34.46 147 31.318 147 24.515 154.387 19 163.5 19z" mask="url(#jdmowh85ob)" opacity=".597" transform="matrix(-1 0 0 1 327 0)"/>
+                <g mask="url(#jdmowh85ob)">
+                    <g transform="translate(133 12)">
+                        <path fill="#FEFEFE" d="M16.5 0C25.613 0 33 5.515 33 12.318s-7.387 12.318-16.5 12.318c-2.661 0-5.175-.47-7.4-1.305l-5.017 1.618c-.229.074-.476.063-.698-.03-.508-.217-.745-.804-.53-1.312l1.317-3.101C1.577 18.329 0 15.46 0 12.318 0 5.515 7.387 0 16.5 0z"/>
+                        <circle cx="16.5" cy="12.5" r="1.5" fill="#7CB3FF"/>
+                        <circle cx="9.5" cy="12.5" r="1.5" fill="#7CB3FF"/>
+                        <circle cx="23.5" cy="12.5" r="1.5" fill="#7CB3FF"/>
+                    </g>
+                </g>
+                <text fill="#FEFEFE" font-weight="700" font-size="12" font-weight="bold" mask="url(#jdmowh85ob)">
+                    <tspan x="10" y="26">넥스트유니콘에</tspan> <tspan x="10" y="42">무엇이든 말해주세요</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

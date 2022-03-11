@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="138" viewBox="0 0 200 138">
+    <defs>
+        <filter id="prefix__a" width="127.7%" height="141.8%" x="-13.9%" y="-20.9%" filterUnits="objectBoundingBox">
+            <feOffset dy="5" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="4"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd" filter="url(#prefix__a)" transform="translate(8 3)">
+        <path fill="#2581FF" d="M3 0h178c1.657 0 3 1.343 3 3v107.814c0 1.657-1.343 3-3 3H29.31c-.693 0-1.335.357-1.7.945l-3.91 6.296c-.582.938-1.815 1.226-2.754.644-.261-.162-.481-.383-.644-.644l-3.91-6.296c-.364-.588-1.007-.945-1.698-.945H3c-1.657 0-3-1.343-3-3V3c0-1.657 1.343-3 3-3z"/>
+        <g transform="translate(18 12)">
+            <text fill="#FEFEFE" font-weight="400" font-size="14">
+                <tspan x="48" y="24">투자자에게 </tspan> <tspan x="48" y="44">IR 요청 받기 가능</tspan>
+            </text>
+            <circle cx="20" cy="28" r="19.5" fill="#FEFEFE" stroke="#FEFEFE"/>
+            <path fill="#2581FF" fill-rule="nonzero" d="M18.54 18.002v1.044H13c-.276 0-.5.233-.5.522v9.434h.811c.422 0 .798.264.94.66l.485 1.34c.143.396.519.66.94.66h8.684c.413 0 .784-.254.933-.64l.534-1.38c.15-.386.52-.64.933-.64h.74v-9.434c0-.289-.224-.522-.5-.522h-5.46v-1.044H27c.828 0 1.5.701 1.5 1.566v5.934l3.5 3.5v7c0 1.657-1.343 3-3 3H11c-1.657 0-3-1.343-3-3v-7l3.5-3.5v-5.934c0-.865.672-1.566 1.5-1.566h5.54zm-7.04 8.915l-2.086 2.085H11.5v-2.085zm17 2.085h2.086L28.5 26.917v2.085zm-19.5 1v6c0 1.105.895 2 2 2h18c1.105 0 2-.895 2-2v-6h-4.24l-.534 1.382c-.299.77-1.04 1.278-1.866 1.278h-8.684c-.842 0-1.594-.528-1.88-1.32l-.485-1.34H9z"/>
+            <path fill="#2581FF" fill-rule="nonzero" d="M20.5 25.182l2.12-2.446c.18-.208.496-.231.706-.053.21.178.233.491.053.699l-2.988 3.445c-.199.23-.557.23-.757.002l-3.012-3.446c-.18-.207-.158-.52.05-.699.21-.179.525-.157.706.05l2.122 2.428v-7.67c0-.272.224-.492.5-.492s.5.22.5.491v7.69z"/>
+            <path fill="#FEFEFE" fill-rule="nonzero" d="M9.05 2.55c-.12-.25-.015-.548.234-.667.249-.12.547-.015.667.234l2 4.167c.12.249.014.547-.235.667s-.547.014-.667-.235l-2-4.166zM30.95 2.55c.12-.25.015-.548-.234-.667-.249-.12-.547-.015-.667.234l-2 4.167c-.12.249-.014.547.235.667s.547.014.667-.235l2-4.166zM19.5.545c0-.3.224-.545.5-.545s.5.244.5.545v4.91c0 .3-.224.545-.5.545s-.5-.244-.5-.545V.545z"/>
+        </g>
+        <rect width="148" height="1" x="18" y="72" fill="#FEFEFE" rx=".5"/>
+        <text fill="#FEFEFE" font-weight="400" font-size="12">
+            <tspan x="51" y="95">기업 명 입력</tspan>
+        </text>
+        <text fill="#FEFEFE" font-weight="400" font-size="12">
+            <tspan x="18" y="95">조건 :</tspan>
+        </text>
+    </g>
+</svg>

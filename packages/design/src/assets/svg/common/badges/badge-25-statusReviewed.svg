@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71" height="25" viewBox="0 0 71 25">
+    <g fill="none" fill-rule="evenodd">
+        <rect width="71" height="25" fill="#E7F4E5" rx="3"/>
+        <text fill="#61BB56" font-weight="400" font-size="14">
+            <tspan x="8.172" y="18">자료 열람</tspan>
+        </text>
+    </g>
+</svg>

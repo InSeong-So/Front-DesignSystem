@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="62" height="52" viewBox="0 0 62 52">
+    <defs>
+        <path id="yy8lvw6f1a" d="M0.698 0.096L43.329 0.096 43.329 41.664 0.698 41.664z"/>
+        <path id="4i47mef89c" d="M0.733 0.204L10.152 0.204 10.152 9.216 0.733 9.216z"/>
+        <path id="gydbx7uiye" d="M0 50.581L60.609 50.581 60.609 0 0 0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g transform="translate(-176 -304) translate(176 304)">
+                    <g transform="translate(17.28 8.917)">
+                        <mask id="lj5lrax2lb" fill="#fff">
+                            <use xlink:href="#yy8lvw6f1a"/>
+                        </mask>
+                        <path fill="#7CB3FF" d="M37.57.096H.698l17.695 41.569H37.57c3.168 0 5.76-2.592 5.76-5.76V5.855c0-3.167-2.592-5.76-5.76-5.76" mask="url(#lj5lrax2lb)"/>
+                    </g>
+                    <g transform="translate(31.104 41.365)">
+                        <mask id="z6dpcuu72d" fill="#fff">
+                            <use xlink:href="#4i47mef89c"/>
+                        </mask>
+                        <path fill="#124397" d="M4.569 9.216L0.733 0.204 10.152 0.204z" mask="url(#z6dpcuu72d)"/>
+                    </g>
+                    <mask id="9o835xs86f" fill="#fff">
+                        <use xlink:href="#gydbx7uiye"/>
+                    </mask>
+                    <path fill="#F4F9FF" d="M31.24 19.95L55.635 19.95 55.635 18.215 31.24 18.215zM33.355 27.405L55.635 27.405 55.635 25.671 33.355 25.671zM41.588 34.86L55.635 34.86 55.635 33.127 41.588 33.127z" mask="url(#9o835xs86f)"/>
+                    <path fill="#2581FF" d="M5.76 0C2.592 0 0 2.592 0 5.76v30.049c0 3.168 2.592 5.76 5.76 5.76h35.497L23.56-.001H5.76z" mask="url(#9o835xs86f)"/>
+                </g>
+                <g fill="#F4F9FF">
+                    <path d="M9.5 1.9c4.197 0 7.6 3.403 7.6 7.6 0 4.197-3.403 7.6-7.6 7.6-4.197 0-7.6-3.403-7.6-7.6 0-4.197 3.403-7.6 7.6-7.6zm0 9.5c-.525 0-.95.425-.95.95 0 .525.425.95.95.95.525 0 .95-.425.95-.95 0-.525-.425-.95-.95-.95zm0-5.7c-.029 0-.057.001-.086.004-.472.048-.817.469-.77.941l.334 3.332c.027.269.252.473.522.473s.495-.204.522-.473l.333-3.332c.003-.028.005-.057.005-.085 0-.475-.385-.86-.86-.86z" transform="translate(-176 -304) translate(176 304) translate(6 11)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

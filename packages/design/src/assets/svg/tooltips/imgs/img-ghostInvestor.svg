@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="243" height="99" viewBox="0 0 243 99">
+    <defs>
+        <filter id="alyc4art4a" width="124.2%" height="165.9%" x="-12.1%" y="-32.9%" filterUnits="objectBoundingBox">
+            <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1"
+                           values="0 0 0 0 0.145098039 0 0 0 0 0.505882353 0 0 0 0 1 0 0 0 0.2 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g filter="url(#alyc4art4a)" transform="translate(-825 -594) translate(835 598)">
+            <path fill="#FEFEFE" stroke="#2581FF"
+                  d="M220 .649c.69 0 1.315.28 1.768.732.452.452.732 1.077.732 1.768h0v64.874c0 .69-.28 1.315-.732 1.768-.453.452-1.078.732-1.768.732h0H32.801c-.873 0-1.683.456-2.136 1.202h0l-3.769 6.202c-.215.354-.553.587-.926.679-.373.09-.78.04-1.135-.176-.205-.125-.378-.297-.503-.503h0l-3.768-6.202c-.454-.746-1.263-1.202-2.137-1.202h0H3c-.69 0-1.315-.28-1.768-.732C.78 69.338.5 68.713.5 68.023h0V3.149c0-.69.28-1.316.732-1.768C1.685.928 2.31.649 3 .649h0z"
+                  transform="matrix(1 0 0 -1 0 81.149)"/>
+            <text fill="#333" font-weight="400" font-size="14">
+                <tspan x="16" y="42">이직이나 개인사정으로</tspan>
+                <tspan x="16" y="62">활동을 중단한 전문투자자입니다.</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

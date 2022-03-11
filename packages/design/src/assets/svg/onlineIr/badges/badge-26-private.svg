@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="59" height="26" viewBox="0 0 59 26">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g transform="translate(-829 -638) translate(655 628) translate(174 10)">
+                    <rect width="58" height="25" x=".5" y=".5" fill="#3A3A3A" stroke="#FEFEFE" rx="12.5"/>
+                    <text fill="#FEFEFE" font-weight="700" font-size="12" font-weight="bold">
+                        <tspan x="8" y="18">Private</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

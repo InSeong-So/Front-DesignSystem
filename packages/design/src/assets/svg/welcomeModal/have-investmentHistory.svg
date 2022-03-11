@@ -1,0 +1,16 @@
+<svg width="70" height="70" viewBox="0 0 70 70" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="img_registrationNumberO">
+<circle id="Oval" cx="35" cy="35" r="35" fill="#E9F2FF"/>
+<g id="Group 10">
+<path id="Rectangle" fill-rule="evenodd" clip-rule="evenodd" d="M18.375 14.375C18.375 14.1679 18.5429 14 18.75 14H51.25C51.4571 14 51.625 14.1679 51.625 14.375V54.75C51.625 54.9571 51.4571 55.125 51.25 55.125H24.8559L22.0411 51.8816C22.029 51.8676 22.0158 51.8545 22.0017 51.8425L18.375 48.7381V14.375Z" fill="url(#paint0_linear_928_27267)"/>
+<circle id="Oval_2" cx="35" cy="35" r="6" stroke="#FEFEFE" stroke-width="2"/>
+<path id="Path 5" fill-rule="evenodd" clip-rule="evenodd" d="M24.8504 55.1252V49.1133C24.8504 48.9062 24.6825 48.7383 24.4754 48.7383H18.375L24.8504 55.1252Z" fill="#006CFF"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_928_27267" x1="16.2121" y1="14" x2="16.2121" y2="60.4753" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2581FF"/>
+<stop offset="1" stop-color="#7CB3FF"/>
+</linearGradient>
+</defs>
+</svg>

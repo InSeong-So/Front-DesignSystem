@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" height="48">
+  <defs>
+    <path id="k2fereokoa" d="M3 24C3 12.402 12.402 3 24 3s21 9.402 21 21-9.402 21-21 21S3 35.598 3 24zm23.482 12V24.749h3.106L30 20.87h-3.518l.005-1.94c0-1.011.096-1.553 1.55-1.553h1.941V13.5h-3.107c-3.731 0-5.045 1.88-5.045 5.044v2.328H19.5v3.877h2.326V36h4.656z"/>
+  </defs>
+    <use fill="#2581FF" xlink:href="#k2fereokoa"/>
+</svg>

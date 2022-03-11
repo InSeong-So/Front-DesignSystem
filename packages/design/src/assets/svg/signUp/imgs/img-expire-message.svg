@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="134" height="134" viewBox="0 0 134 134">
+    <defs>
+        <linearGradient id="0eo2o3kefc" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#898E9B"/>
+            <stop offset="100%" stop-color="#C3C8D2"/>
+        </linearGradient>
+        <linearGradient id="9uk14m8y9e" x1="50%" x2="50%" y1="15.981%" y2="144.104%">
+            <stop offset="0%" stop-color="#B2B8C3"/>
+            <stop offset="100%" stop-color="#E3E6EB"/>
+        </linearGradient>
+        <linearGradient id="86zj2lhcqf" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#E8ECF2"/>
+            <stop offset="100%" stop-color="#F5F7FA"/>
+        </linearGradient>
+        <filter id="7exrq5ntqa" color-interpolation-filters="auto">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.956863 0 0 0 0 0.960784 0 0 0 0 0.968627 0 0 0 1.000000 0"/>
+        </filter>
+        <path id="2z0hnpxdcb" d="M0 0L110 0 110 64 0 64z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g filter="url(#7exrq5ntqa)" transform="translate(-893.000000, -200.000000) translate(743.000000, 124.000000) translate(150.000000, 76.000000)">
+                        <circle cx="67" cy="67" r="67" fill="#F4F9FF"/>
+                    </g>
+                    <g transform="translate(-893.000000, -200.000000) translate(743.000000, 124.000000) translate(150.000000, 76.000000) translate(12.000000, 35.000000)">
+                        <mask id="2uvdkmr6ad" fill="#fff">
+                            <use xlink:href="#2z0hnpxdcb"/>
+                        </mask>
+                        <path fill="url(#0eo2o3kefc)" d="M103.198 64H6.801C3.045 64 0 61.004 0 57.308V6.692C0 2.997 3.045 0 6.801 0h96.397c3.757 0 6.803 2.997 6.803 6.692v50.616c0 3.696-3.046 6.692-6.803 6.692l-91.33-24.421" mask="url(#2uvdkmr6ad)"/>
+                        <path fill="url(#9uk14m8y9e)" d="M55 23.996L2.325 62.31C3.524 63.349 5.079 64 6.801 64h96.397c1.723 0 3.278-.651 4.477-1.69L55 23.996z" mask="url(#2uvdkmr6ad)"/>
+                        <g fill="url(#86zj2lhcqf)" mask="url(#2uvdkmr6ad)">
+                            <path d="M105.143 1.564C103.958.577 102.443 0 100.77 0H4.373C2.699 0 1.185.577 0 1.564L49.736 37.66c1.715 1.133 3.956 1.133 5.672 0l49.735-36.096z" transform="translate(2.428069, -0.000334)"/>
+                        </g>
+                    </g>
+                    <g transform="translate(-893.000000, -200.000000) translate(743.000000, 124.000000) translate(150.000000, 76.000000) translate(43.000000, 43.000000)">
+                        <circle cx="24" cy="24" r="21.677" stroke="#5B606B" stroke-width="4.645"/>
+                        <path fill="#5B606B" d="M20.903 2.323H25.548V46.452H20.903z" transform="translate(23.225806, 24.387097) rotate(-315.000000) translate(-23.225806, -24.387097)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

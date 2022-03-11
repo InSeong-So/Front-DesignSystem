@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="169" height="160" viewBox="0 0 169 160">
+    <defs>
+        <linearGradient id="qhx4awetoa" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#DFEEFF"/>
+            <stop offset="100%" stop-color="#C1DCFF"/>
+        </linearGradient>
+        <linearGradient id="70raaj6oub" x1="-5.939%" x2="81.295%" y1="-33.333%" y2="95.543%">
+            <stop offset="0%" stop-color="#2599ED"/>
+            <stop offset="100%" stop-color="#1060D7"/>
+        </linearGradient>
+        <linearGradient id="98agh7ee1c" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#89CAFF"/>
+            <stop offset="100%" stop-color="#519AFF"/>
+        </linearGradient>
+        <linearGradient id="108qo4uubd" x1="50%" x2="62.444%" y1="19.697%" y2="115.934%">
+            <stop offset="0%" stop-color="#B3DAFF"/>
+            <stop offset="100%" stop-color="#7CB3FF"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-984.000000, -244.000000) translate(985.000000, 244.000000)">
+                <circle cx="83.747" cy="80" r="80" fill="#F4F9FF"/>
+                <g>
+                    <path fill="url(#qhx4awetoa)" d="M99.5 58.234L122.738 49.077 0 0z" transform="translate(105.631093, 57.313433) scale(-1, 1) translate(-105.631093, -57.313433) translate(44.262185, 9.552239)"/>
+                    <path fill="url(#70raaj6oub)" d="M39.198 64L79.85 94.962 99.5 58.234 0 0.001z" transform="translate(105.631093, 57.313433) scale(-1, 1) translate(-105.631093, -57.313433) translate(44.262185, 9.552239)"/>
+                    <path fill="url(#98agh7ee1c)" d="M43.329 67.434L79.85 94.963 83.906 59.149 55.543 39.156z" transform="translate(105.631093, 57.313433) scale(-1, 1) translate(-105.631093, -57.313433) translate(44.262185, 9.552239)"/>
+                    <path fill="url(#108qo4uubd)" d="M0 0L56.003 95.522 83.906 59.149z" transform="translate(105.631093, 57.313433) scale(-1, 1) translate(-105.631093, -57.313433) translate(44.262185, 9.552239)"/>
+                </g>
+                <path stroke="#519AFF" stroke-dasharray="1.194 3.582" stroke-linecap="round" stroke-width="1.194" d="M78.752 102.687s-9.31 17.029-20.4 15.727c-9.7-1.139-16.246-6.776-11.99-13.34 4.02-6.199 41.191 3.461 11.99 26.193C32.31 151.54 0 128.17 0 128.17"/>
+            </g>
+        </g>
+    </g>
+</svg>

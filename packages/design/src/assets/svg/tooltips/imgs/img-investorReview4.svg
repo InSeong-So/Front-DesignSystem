@@ -1,0 +1,20 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="327" height="200" viewBox="0 0 327 200">
+    <defs>
+        <filter id="prefix__a" width="117.6%" height="130%" x="-8.8%" y="-15%" filterUnits="objectBoundingBox">
+            <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0.443137255 0 0 0 0 0.458823529 0 0 0 0 1 0 0 0 0.3 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd" filter="url(#prefix__a)" transform="translate(10 6)">
+        <path fill="#FEFEFE" stroke="#7175FF" d="M304 179.5c1.38 0 2.5-1.12 2.5-2.5V11.126c0-1.381-1.12-2.5-2.5-2.5h-15.427c-.874 0-1.683-.456-2.137-1.202l-3.768-6.203c-.125-.205-.298-.378-.503-.503-.708-.43-1.631-.205-2.061.503l-3.769 6.203c-.453.746-1.263 1.202-2.136 1.202H3c-1.38 0-2.5 1.119-2.5 2.5V177c0 1.38 1.12 2.5 2.5 2.5h301z"/>
+        <text font-weight="400" font-size="14">
+            <tspan x="16" y="40" fill="#333">보낸 요청의 경우 투자자가 </tspan> <tspan x="170.224" y="40" fill="#7175FF">15일 내 자료 미 열람</tspan> <tspan x="16" y="60" fill="#7175FF">시 요청을 취소할 수 있습니다. </tspan> <tspan x="190.132" y="60" fill="#333">취소 시 사용한 티</tspan> <tspan x="16" y="80" fill="#333">켓이 복구됩니다. </tspan>  <tspan x="16" y="120" fill="#333">요청 취소는 검토일 기준 180일 내 가능합니다. </tspan> <tspan x="16" y="140" fill="#333">180일이 초과된 보낸 요청과 수락한 요청의 경</tspan> <tspan x="16" y="160" fill="#333">우 요청 취소가 불가합니다.</tspan>
+        </text>
+    </g>
+</svg>

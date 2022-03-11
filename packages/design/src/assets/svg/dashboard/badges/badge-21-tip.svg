@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="39" height="21" viewBox="0 0 39 21">
+    <defs>
+        <filter id="prefix__a" width="108.3%" height="108.3%" x="-4.2%" y="-4.2%" filterUnits="objectBoundingBox">
+            <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2.5"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd" filter="url(#prefix__a)" transform="translate(-46 -303)">
+        <g transform="translate(46 303)">
+            <rect width="38" height="20" x=".5" y=".5" stroke="#7176FF" rx="10"/>
+            <text fill="#7175FF" font-family="Ubuntu-MediumItalic, Ubuntu Medium" font-size="14" font-style="italic" letter-spacing=".778">
+                <tspan x="8" y="16">TIP</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

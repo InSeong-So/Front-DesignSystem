@@ -27,11 +27,6 @@
     "experimentalDecorators": true,
     "lib": ["esnext", "dom", "dom.iterable", "scripthost"],
     "types": ["node"],
-    "paths": {
-      "@inseong-so/*": ["../inseong-so/src"],
-      "@SINHOLEE/*": ["../SINHOLEE/src/*"],
-      "@xianeml/utils/*": ["../xianeml/src/*"],
-      "@ui/*": ["../ui/src/*"],
-    },
+    "composite": true
   },
 }

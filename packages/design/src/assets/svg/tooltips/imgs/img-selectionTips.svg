@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="457" height="290" viewBox="0 0 457 290">
+    <defs>
+        <filter id="a" width="112.4%" height="119.9%" x="-6.2%" filterUnits="objectBoundingBox">
+            <feOffset dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1"
+                           values="0 0 0 0 0.443137255 0 0 0 0 0.458823529 0 0 0 0 1 0 0 0 0.3 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd" filter="url(#a)" transform="translate(10 5)">
+        <path
+                fill="#FEFEFE"
+                stroke="#7175FF"
+                d="M434 270.5a2.5 2.5 0 0 0 2.5-2.5V12.184a2.5 2.5 0 0 0-2.5-2.5h-15.871a2.5 2.5 0 0 1-2.124-1.181l-3.91-6.296a1.5 1.5 0 0 0-2.548 0l-3.91 6.296a2.5 2.5 0 0 1-2.123 1.18H3a2.5 2.5 0 0 0-2.5 2.5V268a2.5 2.5 0 0 0 2.5 2.5h431z"
+        />
+        <g transform="translate(16 24)">
+            <rect width="74" height="22" fill="#FEE7EB" rx="3"/>
+            <text fill="#FD667E" font-size="12">
+                <tspan x="8" y="16">신규 투자자</tspan>
+            </text>
+        </g>
+        <g transform="translate(16 54)">
+            <rect width="74" height="22" fill="#FEEDDF" rx="3"/>
+            <text fill="#FA8A2D" font-size="12">
+                <tspan x="8" y="16">인기 투자자</tspan>
+            </text>
+        </g>
+        <g transform="translate(16 84)">
+            <rect width="74" height="22" fill="#F1F2D8" rx="3"/>
+            <text fill="#A9B000" font-size="12">
+                <tspan x="9" y="16">검토 100%</tspan>
+            </text>
+        </g>
+        <g transform="translate(16 114)">
+            <rect width="74" height="22" fill="#E7F4E5" rx="3"/>
+            <text fill="#61BB56" font-size="12">
+                <tspan x="8" y="16">응답률 우수</tspan>
+            </text>
+        </g>
+        <g transform="translate(16 144)">
+            <rect width="74" height="22" fill="#E0F5FB" rx="3"/>
+            <text fill="#37C4E9" font-size="12">
+                <tspan x="8" y="16">빠른 피드백</tspan>
+            </text>
+        </g>
+        <g transform="translate(16 174)">
+            <rect width="63" height="22" fill="#D9E9F6" rx="3"/>
+            <text fill="#1189E8" font-size="12">
+                <tspan x="8" y="16">엔젤 투자</tspan>
+            </text>
+        </g>
+        <g transform="translate(16 204)">
+            <rect width="85" height="22" fill="#EDE7FE" rx="3"/>
+            <text fill="#9067F7" font-size="12">
+                <tspan x="8" y="16">소셜벤처 투자</tspan>
+            </text>
+        </g>
+        <g transform="translate(16 234)">
+            <rect width="74" height="22" fill="#FFE2E2" rx="3"/>
+            <text fill="#DB3E2D" font-size="12">
+                <tspan x="8" y="16">팁스 운영사</tspan>
+            </text>
+        </g>
+        <text fill="#333" font-size="14">
+            <tspan x="100" y="41">최근 2주 안에 인증을 완료한 투자자</tspan>
+        </text>
+        <text fill="#333" font-size="14">
+            <tspan x="100" y="70">최근 2주 내 스타트업에게 검토 요청을 많이 받은 투자자</tspan>
+        </text>
+        <text fill="#333" font-size="14">
+            <tspan x="100" y="100">요청 받은 투자 검토를 100% 진행하는 투자자</tspan>
+        </text>
+        <text fill="#333" font-size="14">
+            <tspan x="100" y="131">자료 검토 진행 후 피드백 응답률이 우수한 투자자</tspan>
+        </text>
+        <text fill="#333" font-size="14">
+            <tspan x="100" y="161">검토 요청 후 평균 2주 안에 피드백을 전달해주는 투자자</tspan>
+        </text>
+        <text fill="#333" font-size="14">
+            <tspan x="100" y="190">엔젤 투자만 진행하는 투자하는 투자자</tspan>
+        </text>
+        <text fill="#333" font-size="14">
+            <tspan x="113" y="221">소셜벤처(임팩트) 투자만 진행하는 투자자</tspan>
+        </text>
+        <text fill="#333" font-size="14">
+            <tspan x="100" y="251">팁스(TIPS) 프로그램 운영사의 투자자</tspan>
+        </text>
+    </g>
+</svg>
