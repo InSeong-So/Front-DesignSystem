@@ -1,0 +1,1 @@
+https://duncanleung.com/typescript-module-declearation-svg-img-assets/
