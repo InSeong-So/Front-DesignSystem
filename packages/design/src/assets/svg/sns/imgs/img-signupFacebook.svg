@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="48" viewBox="0 0 300 48">
-    <g fill="none" fill-rule="evenodd">
-        <rect width="300" height="48" fill="#4267B2" rx="3"/>
-        <path fill="#FFF" fill-rule="nonzero" d="M30.28 25.165l.57-3.592h-3.567v-2.33c0-.983.497-1.942 2.095-1.942H31v-3.058S29.528 14 28.122 14c-2.938 0-4.857 1.72-4.857 4.835v2.738H20v3.592h3.265v8.685c.655.099 1.326.15 2.009.15.683 0 1.354-.051 2.01-.15v-8.685h2.995z"/>
-        <text fill="#FEFEFE" font-weight="400" font-size="14">
-            <tspan x="84.032" y="30">페이스북으로 회원가입</tspan>
-        </text>
-    </g>
-</svg>

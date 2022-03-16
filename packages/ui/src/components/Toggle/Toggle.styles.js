@@ -1,0 +1,11 @@
+var __makeTemplateObject = (this && this.__makeTemplateObject) || function (cooked, raw) {
+    if (Object.defineProperty) { Object.defineProperty(cooked, "raw", { value: raw }); } else { cooked.raw = raw; }
+    return cooked;
+};
+import styled from 'styled-components';
+import Colors from '../../constants/colors';
+export var Wrapper = styled.button(templateObject_1 || (templateObject_1 = __makeTemplateObject(["\n  position: relative;\n  display: inline-block;\n  width: 28px;\n  height: 16px;\n"], ["\n  position: relative;\n  display: inline-block;\n  width: 28px;\n  height: 16px;\n"])));
+export var Background = styled.span(templateObject_2 || (templateObject_2 = __makeTemplateObject(["\n  position: absolute;\n  cursor: pointer;\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  background-color: #a5abba;\n  transition: 0.4s;\n  border-radius: 10px;\n\n  &::before {\n    position: absolute;\n    content: '';\n    height: 12px;\n    width: 12px;\n    left: 2px;\n    bottom: 2px;\n    background-color: #fefefe;\n    transition: 0.4s;\n    box-sizing: border-box;\n    border: 1px solid #e8ecf2;\n    border-radius: 10px;\n  }\n"], ["\n  position: absolute;\n  cursor: pointer;\n  top: 0;\n  left: 0;\n  right: 0;\n  bottom: 0;\n  background-color: #a5abba;\n  transition: 0.4s;\n  border-radius: 10px;\n\n  &::before {\n    position: absolute;\n    content: '';\n    height: 12px;\n    width: 12px;\n    left: 2px;\n    bottom: 2px;\n    background-color: #fefefe;\n    transition: 0.4s;\n    box-sizing: border-box;\n    border: 1px solid #e8ecf2;\n    border-radius: 10px;\n  }\n"])));
+export var Input = styled.input(templateObject_3 || (templateObject_3 = __makeTemplateObject(["\n  display: none;\n\n  &:checked + span {\n    background-color: ", ";\n  }\n\n  &:checked + span::before {\n    transform: translateX(12px);\n  }\n"], ["\n  display: none;\n\n  &:checked + span {\n    background-color: ", ";\n  }\n\n  &:checked + span::before {\n    transform: translateX(12px);\n  }\n"])), Colors.blue6);
+var templateObject_1, templateObject_2, templateObject_3;
+//# sourceMappingURL=Toggle.styles.js.map

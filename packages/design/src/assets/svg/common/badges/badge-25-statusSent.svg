@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="71" height="25" viewBox="0 0 71 25">
-    <g fill="none" fill-rule="evenodd">
-        <rect width="71" height="25" fill="#FEF6D2" rx="3"/>
-        <text fill="#FFB224" font-weight="400" font-size="14">
-            <tspan x="8.172" y="18">전송 완료</tspan>
-        </text>
-    </g>
-</svg>

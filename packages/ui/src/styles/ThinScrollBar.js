@@ -1,0 +1,9 @@
+var __makeTemplateObject = (this && this.__makeTemplateObject) || function (cooked, raw) {
+    if (Object.defineProperty) { Object.defineProperty(cooked, "raw", { value: raw }); } else { cooked.raw = raw; }
+    return cooked;
+};
+import { css } from 'styled-components';
+import Colors from '../constants/colors';
+export var ThinScrollBar = css(templateObject_1 || (templateObject_1 = __makeTemplateObject(["\n  ::-webkit-scrollbar {\n    width: 8px;\n    border-radius: 8px;\n    background-color: ", ";\n  }\n\n  ::-webkit-scrollbar-thumb {\n    border: 2px solid rgba(0, 0, 0, 0);\n    background-clip: padding-box;\n    -webkit-border-radius: 8px;\n    background-color: rgba(0, 0, 0, 0.15);\n    -webkit-box-shadow: inset -1px -1px 0px rgba(0, 0, 0, 0.05),\n      inset 1px 1px 0px rgba(0, 0, 0, 0.05);\n  }\n\n  ::-webkit-scrollbar-button {\n    width: 0;\n    height: 0;\n    display: none;\n  }\n\n  ::-webkit-scrollbar-corner {\n    background-color: transparent;\n  }\n"], ["\n  ::-webkit-scrollbar {\n    width: 8px;\n    border-radius: 8px;\n    background-color: ", ";\n  }\n\n  ::-webkit-scrollbar-thumb {\n    border: 2px solid rgba(0, 0, 0, 0);\n    background-clip: padding-box;\n    -webkit-border-radius: 8px;\n    background-color: rgba(0, 0, 0, 0.15);\n    -webkit-box-shadow: inset -1px -1px 0px rgba(0, 0, 0, 0.05),\n      inset 1px 1px 0px rgba(0, 0, 0, 0.05);\n  }\n\n  ::-webkit-scrollbar-button {\n    width: 0;\n    height: 0;\n    display: none;\n  }\n\n  ::-webkit-scrollbar-corner {\n    background-color: transparent;\n  }\n"])), Colors.blueGray0);
+var templateObject_1;
+//# sourceMappingURL=ThinScrollBar.js.map
